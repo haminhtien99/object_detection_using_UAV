@@ -1,4 +1,4 @@
-# oobject_detection_using_UAV
+# object_detection_using_UAV
 НИР-Цитис
 
 dataset psu-car from https://github.com/aniskoubaa/psu-car-dataset
