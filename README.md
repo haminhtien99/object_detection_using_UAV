@@ -10,6 +10,7 @@
 1. Experiments for yolov7: 
 * input size of 640*640, --batch_size 8, default hyperparameters
 * input size of 320*320, --batch_size , default hyperparameters
+* lr =  $10^{-2}$, $10^{-3}$, $10^{-4}$, $10^{-5}$,
 * And ....
 2. Experiments for Faster RCNN
 
