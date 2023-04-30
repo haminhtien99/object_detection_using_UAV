@@ -3,7 +3,7 @@
 
 ***Related works***
 * [Detail of dataset VisDrone](https://github.com/VisDrone/VisDrone-Dataset)
-* [Training with Faster RCNN](https://github.com/dronefreak/VisDrone-dataset-python-toolkit)
+* [Training with Faster RCNN](https://github.com/sovit-123/fasterrcnn-pytorch-training-pipeline)
 * [Training with Yolov4](https://www.researchgate.net/publication/359391361_Analysis_and_Adaptation_of_YOLOv4_for_Object_Detection_in_Aerial_Images)
 ***
 ***Experiments***
