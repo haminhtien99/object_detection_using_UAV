@@ -18,7 +18,7 @@ Review of the problem
 * input size of 640*640 with default hyperparameters
 * input size of 1280*1280 with default hyperparameters
 3. Other experiments: lr = 0.1, 0.01, 0.001
-***Results***
 ***
+***Results***
 Source codes:
 * Convert .xml to .txt https://gist.github.com/Amir22010/a99f18ca19112bc7db0872a36a03a1ec
